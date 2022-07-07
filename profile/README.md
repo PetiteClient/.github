@@ -15,7 +15,7 @@ This client was founded by [@JudahRR](https://github.com/notJudahRR). It took hi
 </a>
 
 ## Downloads
-You can download here in the [#downloads](https://discord.com/channels/987462002228203611) channel from our Discord Server. Any other link not sent by JudahRR, from this Github page, or this Discord Server is **NOT** the official Pétite Client and could have viruses. Only download things if you are sure it is safe.
+You can download here in the [#downloads](https://discord.com/channels/983587639691210782/987462002228203611) channel from our Discord Server. Any other link not sent by JudahRR, from this Github page, or this Discord Server is **NOT** the official Pétite Client and could have viruses. Only download things if you are sure it is safe.
 
 ## Is Pétite Client Safe?
 Yes. It is completely safe, as this is only a texture pack, the same things as many famous YouTubers use when playing in minigames. But we made such an advanced texturepack it resembles real clients from the Java Edition of the game. You can join our Discord to see from other people who have used the client.
